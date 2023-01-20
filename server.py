@@ -5,7 +5,7 @@ import os
 import subprocess
 import sys
 
-SERVER_HOST = "127.0.0.1"
+SERVER_HOST = "10.18.43.24"
 SERVER_PORT = 4444
 
 BUFFER_SIZE = 1024 * 128
